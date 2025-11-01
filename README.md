@@ -48,5 +48,5 @@
 ## References
 
 - RWKV-LM GitHub: [https://github.com/BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM)  
-- Hierarchical Reasoning Models (HRM) literature  
-- Neuro-Symbolic AI research  
+- Hierarchical Reasoning Models (HRM) GitHub: [https://github.com/sapientinc/HRM](https://github.com/sapientinc/HRM)
+- Neuro-Symbolic GitHub: [https://github.com/IBM/TensorLNN](https://github.com/IBM/TensorLNN)
